@@ -1,0 +1,4 @@
+name,   order/ArrivalTime,     burstTime
+P1,         3,                   3
+P2,         1,                   24
+P3,         2,                   3
